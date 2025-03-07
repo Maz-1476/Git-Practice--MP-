@@ -1,3 +1,6 @@
-body{
-    background: linear-gradient(#000);
+body {
+    background-color: skyblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
 }
